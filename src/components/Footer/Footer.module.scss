@@ -1,0 +1,14 @@
+.footer {
+  background: linear-gradient(90deg, #dbfff3, transparent);
+
+  &__text {
+    margin: 0 auto;
+    padding: 20px;
+    max-width: 1200px;
+
+    font-size: 16px;
+    font-weight: 600;
+
+    text-align: center;
+  }
+}
